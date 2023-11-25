@@ -1,0 +1,88 @@
+.a1 {
+
+    height: 500px;
+    width: 250px;
+
+    background-color: #050504;
+    /* background-color: rgba(47, 72, 98, 0.441); */
+    position: relative;
+
+}
+
+.b1 {
+    position: absolute;
+    margin-left: -12px;
+}
+
+.b2 {
+    font-size: 30px;
+    width: 250px;
+    height: 155px;
+    color: white;
+}
+
+.a2 {
+    position: absolute;
+    border-radius: 10px;
+    background-color: rgba(255, 234, 234, 0.18);
+    height: 350px;
+    width: 253px;
+    margin-top: 155px;
+    margin-left: -16px;
+}
+
+.a3 {
+    background-color: #0505046f;
+    border: 1px solid rgba(0, 0, 0, 0);
+    color: rgba(255, 255, 255, 0.329);
+}
+
+.a4 {
+    background-color: #0505046f;
+    border: 1px solid rgba(0, 0, 0, 0);
+    color: rgb(0, 111, 6)
+}
+
+.a6 {
+    font-size: 20px;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+button {
+    height: 50px;
+    width: 50px;
+    border-radius: 70px;
+    padding-top: 10px;
+}
+
+.a8 {
+    color: rgb(210, 5, 5);
+    font-weight: bold;
+}
+
+.a9 {
+    color: green;
+    font-weight: bold;
+}
+
+.a4 {
+    color: rgba(255, 255, 255, 0.619);
+    background-color: rgb(3, 125, 3);
+}
+
+.p1:hover {
+    color: #969614;
+}
+
+button:hover {
+    background-color: rgba(20, 20, 21, 0.199);
+}
+
+.a4:hover {
+    background-color: rgba(0, 111, 6, 0.326);
+}
